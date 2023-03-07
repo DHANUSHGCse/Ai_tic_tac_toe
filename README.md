@@ -1,16 +1,34 @@
-# tic_tac_toe
+AI Tic Tac Toe Game
+This is a simple implementation of Tic Tac Toe game in Flutter with AI capabilities. In this game, a single player can play against the computer, which uses a minimax algorithm to try its best to tie with the user.
 
-A First Mini Game Project
+Installation
+Clone the repository or download the source code.
+bash
+Copy code
+git clone https://github.com/DHANUSHGCse/Ai_tic_tac_toe.git
 
-## Getting Started
+Open the project in your favorite IDE/Code Editor.
 
-This project is a starting point for a Flutter application.
+Install the required dependencies using flutter packages get command.
 
-A few resources to get you started if this is your first Flutter project:
+Build and run the project on an emulator or a physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Single player vs computer game mode.
+
+AI uses a minimax algorithm to make the best possible move.
+
+Easy-to-use and intuitive user interface.
+
+Screenshots
+Refer the ui of app through screenshots folder
+
+Credits
+This project was created by Dhanush G and is licensed under the MIT License.
+
+Feel free to contribute to the project by creating issues, pull requests, or sharing the game with others.
+
+
+
+
